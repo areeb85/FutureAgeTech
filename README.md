@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Make sure you have Node.js and npm installed.
+
+Install Node.js and npm by running:
+```bash
+brew install node
+```
+
 First, run the development server:
 
 ```bash
